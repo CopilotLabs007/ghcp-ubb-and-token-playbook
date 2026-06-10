@@ -17,6 +17,14 @@
 - [GitHub Copilot · Usage-Based Billing Toolkit](https://white-cliff-095e8700f.7.azurestaticapps.net/index.html)
 - [Token Optimization Best Practices – Visual Guide](https://ashy-dune-0b4215a0f.7.azurestaticapps.net/index.html)
 
+## Research Sources
+- [Graphify](https://github.com/safishamsi/graphify) — Knowledge graph creation, query commands, graph reports, supported file types, and assistant integrations.
+- [RTK](https://github.com/rtk-ai/rtk) — Command filtering, output reduction claims, supported commands, hooks, analytics, and configuration.
+- [Caveman](https://github.com/JuliusBrussee/caveman) — Output compression, memory compression, supported agents, and benchmark claims.
+- [AI Engineering Fluency](https://marketplace.visualstudio.com/items?itemName=RobBos.robos-ai-engineering-fluency) — VS Code extension by Rob Bos for daily and monthly token usage, cost estimates, Copilot Fluency Score (6 categories × 4 stages), usage analysis dashboard, and optional cross-device cloud sync via Azure Storage.
+- [VS Code Agent Debug Logs](https://code.visualstudio.com/docs/agents/agent-troubleshooting/chat-debug-view#_agent-debug-log-panel) — VS Code docs for the Agent Debug Log panel, chat debug tools, Logs/Summary/Flow Chart/Cache Explorer, and persisted session inspection.
+- [GitHub Copilot CodeAct Plugin](https://github.com/jsturtevant/copilot-codeact-plugin) — CodeAct plugin for GitHub Copilot, including installation instructions, usage examples, and configuration options.
+
 ## REST API Reference
 - [REST API Endpoints for Billing](https://docs.github.com/rest/billing/billing?apiVersion=2022-11-28)
 - [REST API Endpoints for Billing Budgets](https://docs.github.com/rest/billing/budgets?apiVersion=2022-11-28)
